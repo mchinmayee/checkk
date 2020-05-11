@@ -1,0 +1,11 @@
+3.	Add folder/ files to the repository
+4.	Stage the changes to be committed using git add command – 
+•	git status
+•	git add .
+5.	Commit the changes and push the changes – git commit -m “message”
+6.	Make any change – modify or delete to the files in the repository
+7.	Stage the changes and commit
+8.	Push the changes to the remote repository – git push
+
+
++++++++++++++++++
